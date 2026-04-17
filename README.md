@@ -7,7 +7,7 @@
 I analyze the kind of problems I study in class: port congestion, lead time variance, shipment anomalies. My edge is domain depth — I don't just query data, I understand what the numbers represent on the ground.
 
 - 🔭 Currently working on **Apapa Port Congestion & Lead Time Analysis** (SQL Server + Power BI)
-- 🌱 Building toward remote **Data Analyst** and **Data Engineer** roles
+- 🌱 Building toward remote **Data Analyst** roles
 - 📍 Based in Lagos, Nigeria
 
 <div align="center">
