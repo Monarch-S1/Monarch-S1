@@ -51,5 +51,5 @@ Customer segmentation analysis across 525,000+ transaction records using RFM met
 
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Monarch-S1/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Monarch-S1&color=blue&style=flat" />
 </div>
