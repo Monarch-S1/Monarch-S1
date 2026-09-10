@@ -1,13 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=36¢er=true&vCenter=true&width=600&height=70&color=F4A261&duration=4000&pause=1500&lines=Hi,+I%27m+Seyi;Data+Analyst+%7C+Supply+Chain;Turning+data+into+insights" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=36&center=true&vCenter=true&width=600&height=70&color=F4A261&duration=4000&pause=1500&lines=Hi,+I%27m+Popoola+Oluwaseyi" />
 </h1>
 
-### Logistics & Supply Chain student at Lagos State University, building a second discipline in data analytics — not as a pivot, but as a force multiplier.
+### Analytics and data engineering for supply chain, logistics and trade.
 
-I analyze the kind of problems I study in class: port congestion, lead time variance, shipment anomalies. My edge is domain depth — I don't just query data, I understand what the numbers represent on the ground.
 
-- 🌱 Building toward remote **Data Analyst** roles
-- 📍 Based in Lagos, Nigeria
+I build the pipelines and models that show stakeholders their true landed cost and where their lead times leak. Logistics and Supply Chain Management at Lagos State University, Lagos, Nigeria.
+
+-  Based in Lagos, Nigeria
 
 <div align="center">
   <a href="https://www.linkedin.com/in/oluwaseyi-popoola-570264312" target="_blank">
@@ -20,10 +20,13 @@ I analyze the kind of problems I study in class: port congestion, lead time vari
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github," />
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github" />
 </p>
 
-**Also working with:** SQL Server · Power BI · Excel (Power Query, DAX, Pivot Tables) · Pandas
+**Also working with:** SQL (PostgreSQL, BigQuery, Microsoft SQL Server) · Python (pandas, pytest) · dbt · Airflow · Docker · Power BI · Excel
+
+**Currently** · Building an end-to-end pipeline for Nigerian import cost analysis.
+Learning dbt and dimensional modelling.
 
 ---
 
